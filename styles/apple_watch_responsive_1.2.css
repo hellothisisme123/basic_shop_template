@@ -1,0 +1,66 @@
+@media screen and (width: 162px) 
+and (height: 197px) { /* display none on apple watch 8 49mm Ultrawide*/
+    * {
+        display: none;
+    }
+}
+
+@media screen and (device-width: 33.3mm) { /* display none on apple watch */
+    * {
+        display: none;
+    }
+}
+
+@media screen and (device-width: 34mm) { /* display none on apple watch */
+    * {
+        display: none;
+    }
+}
+
+@media screen and (device-width: 35.9mm) { /* display none on apple watch */
+    * {
+        display: none;
+    }
+}
+
+@media screen and (device-width: 36.4mm) { /* display none on apple watch */
+    * {
+        display: none;
+    }
+}
+
+@media screen and (device-width: 38mm) { /* display none on apple watch */
+    * {
+        display: none;
+    }
+}
+
+@media screen and (device-width: 40mm) { /* display none on apple watch */
+    * {
+        display: none;
+    }
+}
+
+@media screen and (device-width: 41mm) { /* display none on apple watch */
+    * {
+        display: none;
+    }
+}
+
+@media screen and (device-width: 44mm) { /* display none on apple watch */
+    * {
+        display: none;
+    }
+}
+
+@media screen and (device-width: 45mm) { /* display none on apple watch */
+    * {
+        display: none;
+    }
+}
+
+@media screen and (device-width: 49mm) { /* display none on apple watch */
+    * {
+        display: none;
+    }
+}
